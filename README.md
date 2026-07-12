@@ -7,8 +7,8 @@ It was developed as part of the **Computer System Organization and Architecture 
 
 ## 👨‍💻 Team Members
 - Aaroh Rai (24075001)
-- Abhishek Kumar (24075003)
-- **Ayush Kumar Barnwal (24075014)**
+- **Abhishek Kumar** (24075003)
+- Ayush Kumar Barnwal (24075014)
 - Kanishk Kumar Gupta (24075042)
 - Ankit Kumar (24074010)
 
